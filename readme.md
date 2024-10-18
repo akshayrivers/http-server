@@ -1,6 +1,6 @@
 # Creating a README.md file with the provided content for the Java HTTP server project.
 
-readme_content = """# Simple Java HTTP Server
+# Simple Java HTTP Server
 
 This is a simple HTTP server written in Java that can handle basic HTTP methods: GET, POST, PUT, and DELETE. The server is designed to be easily extensible and provides a foundation for building more complex applications.
 
@@ -28,6 +28,6 @@ This is a simple HTTP server written in Java that can handle basic HTTP methods:
 
 ```bash
 git clone https://github.com/akshayrivers/http-server.git
-cd simple-java-http-server
+cd http-server
 # http-server
 # http-server
